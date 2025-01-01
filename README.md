@@ -1,4 +1,4 @@
-# uor
+# UOR Core Documentation
 Greetings, Writers!
 
 This is the folder for the collaboration and creation of the UOR Foundation's core documentation.
