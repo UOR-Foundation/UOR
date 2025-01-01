@@ -32,27 +32,37 @@ This tool generates supporting files like .aux and .fls, for example.
 They are useless and only used to create the pdf or for debugging.
 They are listed in the .gitignore file in this folder.
 
-In case you need it, how I use this folder via codespace...
+
+How I use this folder via codespace...
 
 - Install
 
 -- Install "LaTeX Workshop" codespace extension by James Yu via the "lego blocks" on the far left panel in codespace.
+
 -- In the terminal
+
 --- sudo apt-get update
+
 --- sudo apt-get install -y texlive texlive-latex-extra latexmk
+
 -- Restart codespace
 
 - Edit a .tex and display it's .pdf
 
 -- Open .tex file to edit
+
 -- Hit the run sidways triangle in right corner of codespace
+
 -- Open .pdf after generated in seperate tab
 
 I am sure there are other ways to install and use, this is what worked for me. Key point, the .tex and .pdf shall always have the same filename and have matching versions.
 
 - Pointers that I tell myself to stay focused
+
 -- when editting .tex it's all about context...focus on the words
+
 -- when reading the .pdf it's all about show...focus on the flow
+
 -- let others tell you what it means...focus on the delivery, quitely wait for critisim (I don't like to disturb your thoughts as you read)
 
 I fully expect rich, robust conversation that these documents will spawn as we work together. The hope is that these conversations will create beautiful, thoughtful, practical documents for guidance and direction.
